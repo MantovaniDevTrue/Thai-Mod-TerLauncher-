@@ -14,14 +14,13 @@ The ready-to-use mod is in [`Release/Terraria_Thai_TLPro_v1.0.tl`](Release/Terra
 2. Import it into TLPro / TerLauncher.
 3. Enable the mod and launch Terraria.
 
-## Source layout
+## Repository layout
 
-- `Source/Modified/1.mod/Core` — loader and native helpers.
-- `Source/Modified/1.mod/Modules` — localization, font, and UI runtime modules.
-- `Source/Modified/1.mod/Localization` — Thai catalogs and runtime fallbacks.
-- `Source/Modified/1.mod/Assets` — generated Thai glyph atlases and metadata.
-- `Source/Settings.json` — TLPro package metadata.
-- `Licenses/FONT_LICENSE_OFL.txt` — license notice for the font material used to generate the Thai glyph atlases.
+- `Release/` — ready-to-use `.tl` release.
+- `Source/` — clean source archive with the complete TLPro package structure, human-readable Thai localization catalog, runtime catalog, font metadata and assets.
+- `Licenses/` — font license notice.
+- `CHANGELOG.md` — release history.
+- `CONTRIBUTING.md` — bug-report information.
 
 ## Bug reports and feedback
 
