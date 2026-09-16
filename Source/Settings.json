@@ -1,0 +1,15 @@
+{
+    "packStructureVersion": 33,
+    "title": "Terraria ภาษาไทย — TLPro",
+    "guid": "97077110-6267-49a5-9f9d-be1e3359dea7",
+    "descriptionEnglish": "Independent Thai localization for Terraria Mobile on TLPro/TerLauncher. Adds Thai text and font support across menus, UI, items, tooltips, buffs, NPCs, projectiles, and other supported game content. Bug reports and feedback: https://discord.gg/lemon-studio-1422278971227115532",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Mantovani",
+            "color": "#ffde37ff",
+            "icon_height": 70
+        }
+    ],
+    "version": 57
+}
