@@ -17,7 +17,7 @@ The ready-to-use mod is in [`Release/Terraria_Thai_TLPro_v1.0.tl`](Release/Terra
 ## Repository layout
 
 - `Release/` — ready-to-use `.tl` release.
-- `Source/` — clean source archive with the complete TLPro package structure, human-readable Thai localization catalog, runtime catalog, font metadata and assets.
+- `Source/` — clean source archive with the complete TLPro package structure, Thai localization catalog, runtime catalog, font metadata and assets.
 - `Licenses/` — font license notice.
 - `CHANGELOG.md` — release history.
 - `CONTRIBUTING.md` — bug-report information.
